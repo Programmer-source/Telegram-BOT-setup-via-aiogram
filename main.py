@@ -4,7 +4,7 @@ import logging
 from aiogram import Bot,Dispatcher,types
 from aiogram.filters import Command
 
-myToken = "8606363454:AAFQpmY3nuCwJJyMHHG-NO0iZyHGM3bGRHQ"
+myToken = "YOUR TOKEN HERE"
 
 bot = Bot(myToken)
 dp = Dispatcher()
